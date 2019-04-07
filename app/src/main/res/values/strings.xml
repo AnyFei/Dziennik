@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dziennik</string>
+    <string-array name="wybor">
+        <item>Przedmiot</item>
+        <item>Klasa</item>
+        <item>Plan</item>
+
+    </string-array>
+
+</resources>
+
